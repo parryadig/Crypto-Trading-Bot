@@ -1,0 +1,4 @@
+websocket
+TA-lib
+numpy
+binance-clinet
