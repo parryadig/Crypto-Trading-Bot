@@ -1,6 +1,6 @@
 ## Crypto Trading Bot
 
-Simple trading bot that uses RSI as trade signal, and binance api.
+Simple trading bot that uses binance api & RSI as trade signal.
 
 Steps:
 
